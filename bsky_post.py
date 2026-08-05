@@ -58,6 +58,29 @@ def main():
     handle = os.environ.get("BSKY_HANDLE")
     app_pass = os.environ.get("BSKY_APP_PASS")
     
+    # Fallback: keys.json
+    if not handle or not app_pass:
+        try:
+            import json as _json
+            with open(r'C:\Users\LENOVO\keys.json') as _f:
+                _keys = _json.load(_f)
+            handle = handle or _keys.get('bluesky_handle')
+            app_pass = app_pass or _keys.get('bluesky_app_password')
+        except Exception:
+            pass
+    
+    # Fallback: .env file
+    if not handle or not app_pass:
+        try:
+            with open(r'C:\Users\LENOVO\.env') as _f:
+                for _line in _f:
+                    if _line.startswith('BSKY_HANDLE='):
+                        handle = handle or _line.split('=',1)[1].strip()
+                    elif _line.startswith('BSKY_APP_PASS='):
+                        app_pass = app_pass or _line.split('=',1)[1].strip()
+        except Exception:
+            pass
+    
     if not handle or not app_pass:
         print("ERROR: Set BSKY_HANDLE and BSKY_APP_PASS environment variables")
         sys.exit(1)
@@ -84,16 +107,16 @@ def main():
     if subcmd == "thread" and 'posts' in dir():
         parent_uri = None
         root_uri = None
-        for i, post_text in enumerate(posts):
+        for i, pt in enumerate(posts):
             reply_to = None
             if i > 0:
                 reply_to = {"root": {"uri": root_uri, "cid": root_cid},
                           "parent": {"uri": parent_uri, "cid": parent_cid}}
             
-            result = post_text(session, post_text, reply_to=reply_to)
+            result = post_text(session, pt, reply_to=reply_to)
             uri = result["uri"]
             cid = result["cid"]
-            print(f"Post {i+1}/{len(posts)}: {post_text[:60]}... → {uri}")
+            print(f"Post {i+1}/{len(posts)}: {pt[:60]}... → {uri}")
             
             if i == 0:
                 root_uri, root_cid = uri, cid
