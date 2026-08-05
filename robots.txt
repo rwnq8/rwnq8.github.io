@@ -23,4 +23,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rowan.quni-gudzinas.org/sitemap.xml
+Sitemap: https://rwnq8.github.io/sitemap.xml
