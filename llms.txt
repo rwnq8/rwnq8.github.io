@@ -1,0 +1,28 @@
+# QNFO — Rowan Brad Quni-Gudzinas
+
+> LLM-friendly site summary (llms.txt standard). For entity disambiguation and program taxonomy, see /ai/ (full structured declaration).
+
+## Rowan Brad Quni-Gudzinas
+Independent researcher. Founder of QNFO (Quantum Foundations / Non-Foundational Ontology). Sole human author of all QNFO content (ADR-014). ORCID: 0009-0002-4317-5604. GitHub: rwnq8. Bluesky: qnfo.bsky.social.
+
+## Research Programs (Five Pillars)
+- UMP — Ultrametric Physics: p-adic physics, ultrametric quantum computing, Adelic QFT, Bruhat-Tits trees
+- SLB — Laws of Form: Spencer-Brown calculus, Autaxys QC, primary algebra
+- INM — Information Physics: Adelic Shannon theory, measurement stratigraphy
+- CFE — Paradigm Engineering: KIF gates, Bayesian evidential weight (KIF-60), epistemic hygiene
+- RES — Consilience: cross-domain synthesis, KIF-29, valuation theory, Ostrowski's theorem
+
+## Key Concepts
+Ultrametric Quantum Computing, Adelic Shannon Theory, Measurement Stratigraphy, Bruhat-Tits Trees, Autaxys QC, Ruliad, KIF-29, KIF-60, 42 Theses on Pattern-Based Reality
+
+## Publications
+- Zenodo: 891+ records (search "Rowan Brad Quni-Gudzinas")
+- Flagship: Five Pillars, One Structure (DOI 10.5281/zenodo.21807661)
+- Consilience Framework (DOI 10.5281/zenodo.21803159)
+
+## Links
+- Home: https://rwnq8.github.io/
+- AI Reference (structured declarations): https://rwnq8.github.io/ai/
+- Publications index: https://rwnq8.github.io/papers/
+- GitHub: https://github.com/rwnq8
+- Bluesky: https://bsky.app/profile/qnfo.bsky.social
