@@ -23,4 +23,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rwnq8.github.io/sitemap.xml
+Sitemap: https://qnfo-landing.pages.dev/sitemap.xml
