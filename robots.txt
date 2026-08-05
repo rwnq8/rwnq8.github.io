@@ -1,0 +1,26 @@
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: Twitterbot
+Allow: /
+User-agent: *
+Allow: /
+
+Sitemap: https://rowan.quni-gudzinas.org/sitemap.xml
