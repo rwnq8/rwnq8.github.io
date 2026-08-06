@@ -203,6 +203,29 @@
   }
   .ai-link a { color: var(--accent); font-weight: 600; font-size: 0.95rem; text-decoration: none; }
   .ai-link p { font-size: 0.82rem; color: var(--muted); margin-top: 0.3rem; }
+  .demos-section { margin: 2.5rem 0; }
+  .demos-section h2 { font-size: 1.2rem; color: #fff; margin-bottom: 0.3rem; text-align: center; }
+  .demos-section .demos-subtitle { text-align: center; color: var(--muted); font-size: 0.85rem; margin-bottom: 1.2rem; }
+  .demo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
+  .demo-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 1.4rem;
+    display: flex; flex-direction: column; gap: 0.5rem;
+  }
+  .demo-card .demo-title { font-size: 1rem; color: #fff; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; }
+  .demo-card .demo-badge {
+    font-size: 0.65rem; padding: 0.15rem 0.5rem; border-radius: 3px;
+    background: rgba(166,227,161,0.15); color: #a6e3a1; font-weight: 700; letter-spacing: 0.05em;
+    white-space: nowrap;
+  }
+  .demo-card .demo-desc { font-size: 0.85rem; color: var(--muted); flex: 1; }
+  .demo-card .demo-links { display: flex; gap: 0.6rem; flex-wrap: wrap; font-size: 0.85rem; }
+  .demo-card .demo-links a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .demo-card .demo-links a:hover { text-decoration: underline; }
+  .demo-card .demo-meta { font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 0.5rem; }
+  .demo-note {
+    margin-top: 0.8rem; font-size: 0.78rem; color: var(--muted); text-align: center;
+  }
   footer {
     margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border);
     text-align: center; font-size: 0.8rem; color: var(--muted);
@@ -266,6 +289,24 @@
       <p>Cross-domain synthesis methodology. KIF-29: independent convergence from disconnected domains as the gold standard of evidence. Valuation Theory to the Void framework. Universal Consilience Prompt. Falsifiability audit of contemporary physics.</p>
     </div>
   </div>
+</section>
+
+<section class="demos-section">
+  <h2>Working Demos — Verified Executable Research</h2>
+  <p class="demos-subtitle">Not static mockups: every control is wired to real computation, verified by an automated Chrome test suite (15/15 checks) against the deployed URL.</p>
+  <div class="demo-grid">
+    <div class="demo-card">
+      <div class="demo-title">Bruhat–Tits QEC: Staircase Redundancy <span class="demo-badge">LIVE · VERIFIED</span></div>
+      <p class="demo-desc">Interactive computational proof of the ultrametric QEC–Darwinism tradeoff: on the Bruhat–Tits tree, redundancy grows in discrete staircase steps (not the smooth Archimedean curve), creating windows where quantum error correction and classical objectivity coexist. Paper: DOI 10.5281/zenodo.21817596.</p>
+      <div class="demo-links">
+        <a href="https://qnfo.github.io/qwav-demo-bt-qec/" target="_blank" rel="noopener">GitHub Pages</a>
+        <a href="https://qwav-demo-bt-qec.pages.dev" target="_blank" rel="noopener">Cloudflare Pages</a>
+        <a href="https://github.com/QNFO/qwav-demo-bt-qec" target="_blank" rel="noopener">Source + Tests</a>
+      </div>
+      <div class="demo-meta">Chrome automated suite: 15/15 PASS · zero console errors · light theme · mobile-verified · source repo = artifact (README, tests, screenshots)</div>
+    </div>
+  </div>
+  <p class="demo-note">Additional demos are added here only after passing the full verification gate (computation engine tests + Chrome click-through suite + deployed-URL checks).</p>
 </section>
 
 <section class="key-concepts">

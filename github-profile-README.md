@@ -75,6 +75,16 @@ Manufacturable hardware/software architecture specification (v1.1). Twisted Bi-2
 
 **Full catalog**: [Zenodo (891+ records)](https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas) · **AI reference**: [rowan.quni-gudzinas.org/ai/](https://rowan.quni-gudzinas.org/ai/)
 
+## Working Demos — Verified Executable Research
+
+Not static mockups: every control is wired to real computation, and each demo passes an automated Chrome test suite (15/15 checks) against its deployed URL.
+
+| Demo | Status | Links |
+|:-----|:-------|:------|
+| **Bruhat–Tits QEC: Staircase Redundancy** — interactive proof that on an ultrametric (p-adic) code, redundancy grows in discrete staircase steps, not the smooth Archimedean curve, creating QEC–Darwinism coexistence windows (paper DOI 10.5281/zenodo.21817596) | ✅ LIVE · VERIFIED (Chrome 15/15) | [GitHub Pages](https://qnfo.github.io/qwav-demo-bt-qec/) · [Cloudflare Pages](https://qwav-demo-bt-qec.pages.dev) · [Source + Tests](https://github.com/QNFO/qwav-demo-bt-qec) |
+
+Additional demos are listed here only after passing the full verification gate (computation engine golden-value tests + Chrome click-through suite + deployed-URL checks + zero console errors).
+
 ## Pinned Repositories
 
 - **[unity-of-ultrametric-physics](https://github.com/rwnq8/unity-of-ultrametric-physics)** — Canonical synthesis of the UMP pillar
