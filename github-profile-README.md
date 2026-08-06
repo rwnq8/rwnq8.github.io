@@ -1,12 +1,12 @@
 <!--
   Schema.org structured data for search engines (hidden from Markdown rendering but parsed by crawlers)
   JSON-LD equivalent embedded as HTML comment since GitHub strips <script> tags from READMEs.
-  The canonical source is at https://rowan.quni-gudzinas.org/ with full JSON-LD in the <head>.
+  The canonical source is at https://qnfo.org/ with full JSON-LD in the <head>.
   
   @type: Person
   @name: Rowan Brad Quni-Gudzinas
   @identifier: https://orcid.org/0009-0002-4317-5604
-  @url: https://rowan.quni-gudzinas.org/
+  @url: https://qnfo.org/
   @sameAs: https://github.com/rwnq8, https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas
   @affiliation: Quniverse Research Foundation (QWAV / QNFO)
   @knowsAbout: Ultrametric Physics, p-adic Physics, Laws of Form, Spencer-Brown, Information Physics,
@@ -29,7 +29,7 @@
 # Rowan Brad Quni-Gudzinas
 
 > **Founder, QWAV / QNFO** — Independent Open-Science Research  
-> 🏠 [rowan.quni-gudzinas.org](https://rowan.quni-gudzinas.org) · 🔗 [ORCID: 0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) · 📄 [891+ publications on Zenodo](https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas)
+> 🏠 [qnfo.org](https://qnfo.org) · 🔗 [ORCID: 0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) · 📄 [891+ publications on Zenodo](https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas)
 
 Research and technology leader at the intersection of quantum computing, artificial intelligence, and large-scale systems. I run **QNFO** (Quantum Foundations / Non-Foundational Ontology) — an independent open-science research lab with 891+ publications, a patent portfolio, and a rigorous cross-domain methodology.
 
@@ -73,7 +73,7 @@ Manufacturable hardware/software architecture specification (v1.1). Twisted Bi-2
 | Consilience Methodology | Methodology | Series | Systematic cross-domain innovation |
 | 42 Theses on Pattern-Based Reality | Synthesis | v3.0 | Pattern-first ontology |
 
-**Full catalog**: [Zenodo (891+ records)](https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas) · **AI reference**: [rowan.quni-gudzinas.org/ai/](https://rowan.quni-gudzinas.org/ai/)
+**Full catalog**: [Zenodo (891+ records)](https://zenodo.org/search?q=Rowan+Brad+Quni-Gudzinas) · **AI reference**: [qnfo.org/ai/](https://qnfo.org/ai/)
 
 ## Working Demos — Verified Executable Research
 

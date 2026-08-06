@@ -21,12 +21,12 @@ Over 20 years of experience delivering national-scale technology platforms while
 ```
 
 ### 3. Websites (add)
-- Canonical landing page: https://rowan.quni-gudzinas.org
-- AI reference page: https://rowan.quni-gudzinas.org/ai/
+- Canonical landing page: https://qnfo.org
+- AI reference page: https://qnfo.org/ai/
 
 ### 4. Works (link all Zenodo records)
 - Add all 891+ Zenodo publications as works via BibTeX import or ORCID Search & Link
 - Priority: link the flagship synthesis "Five Pillars, One Structure"
 
 ### 5. Update "QWAV" employment entry
-- Replace qwav.tech URL with rowan.quni-gudzinas.org
+- Replace qwav.tech URL with qnfo.org

@@ -6,7 +6,7 @@ qnfo-landing/
 ├── index.html          # Main landing page with Schema.org JSON-LD
 ├── robots.txt          # AI crawler allow rules
 ├── sitemap.xml         # Search engine sitemap
-├── CNAME               # Domain: rowan.quni-gudzinas.org
+├── CNAME               # Domain: qnfo.org
 ├── ai/
 │   ├── index.html      # AI reference page (LLM ingest target)
 │   └── declaration.md  # Plain markdown for crawlers
@@ -22,7 +22,7 @@ qnfo-landing/
 2. Push the entire `qnfo-landing/` contents to `main` branch
 3. Enable GitHub Pages in repo Settings → Pages → Source: `main` branch
 4. Domain will be `rwnq8.github.io`
-5. For custom domain (rowan.quni-gudzinas.org): add CNAME record in DNS pointing to `rwnq8.github.io`
+5. For custom domain (qnfo.org): add CNAME record in DNS pointing to `rwnq8.github.io`
 
 ### Option B: Cloudflare Pages (Free, Better Performance)
 1. Install wrangler CLI
@@ -50,7 +50,7 @@ Just upload the directory. All files are static HTML — no build step needed.
 
 2. **ORCID profile**: Populate biography, works, keywords
 
-3. **Bluesky announcement**: Post from your social accounts linking to rowan.quni-gudzinas.org
+3. **Bluesky announcement**: Post from your social accounts linking to qnfo.org
 
 4. **arXiv submission**: Submit flagship paper to arXiv (quant-ph or physics.hist-ph)
 

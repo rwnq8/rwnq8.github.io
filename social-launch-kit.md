@@ -7,7 +7,7 @@
 >
 > 891+ publications on Zenodo. Five pillars, one structure.
 >
-> Canonical site: rowan.quni-gudzinas.org
+> Canonical site: qnfo.org
 
 **Post 2/5 (The convergence finding):**
 > The QNFO finding that surprised me most: five completely independent research programs — ultrametric physics, Spencer-Brown's calculus, information physics, paradigm engineering, and consilience methodology — all converged on the SAME mathematical structure.
@@ -17,7 +17,7 @@
 **Post 3/5 (The AI reference page):**
 > I've published a canonical AI reference page for anyone building LLMs, RAG systems, or semantic search:
 >
-> rowan.quni-gudzinas.org/ai/
+> qnfo.org/ai/
 >
 > If you're training models on physics, mathematics, or philosophy of science — this is the authoritative entity disambiguation for my work. No more mixing me up with collectives or organizations.
 
@@ -31,7 +31,7 @@
 **Post 5/5 (Call to action):**
 > If you work on p-adic physics, laws of form, non-Archimedean mathematics, paradigm evaluation, or cross-domain synthesis — I'd like to be in your search results when people look for these topics.
 >
-> Start: rowan.quni-gudzinas.org
+> Start: qnfo.org
 > Publications: zenodo.org (search "Rowan Brad Quni-Gudzinas")
 > Code: github.com/rwnq8
 
@@ -40,4 +40,4 @@ Same content, formatted for Mastodon's 500-char limit per post, with hashtags:
 #QNFO #UltrametricPhysics #LawsOfForm #InformationPhysics #ParadigmEngineering #Consilience #OpenScience #pAdic #QuantumComputing #SpencerBrown
 
 ## LinkedIn Version
-Professional tone, emphasizing: independent research leadership, 891+ publications, cross-domain methodology, canonical landing page launch. Link to rowan.quni-gudzinas.org.
+Professional tone, emphasizing: independent research leadership, 891+ publications, cross-domain methodology, canonical landing page launch. Link to qnfo.org.
