@@ -118,6 +118,30 @@
     --accent: #89b4fa;
     --accent2: #a6e3a1;
   }
+
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #ffffff;
+      --surface: #f4f6fb;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --muted: #64748b;
+      --accent: #2563eb;
+      --accent2: #16a34a;
+    }
+    body { background: var(--bg); color: var(--text); }
+    header h1, .program-overview h2, .key-concepts h2, .demos-section h2,
+    .demo-card .demo-title { color: #0f172a; }
+    .demo-card .demo-badge { background: rgba(22,163,74,0.12); color: #15803d; }
+    .code.ump { background: rgba(214,51,108,0.12); color: #d6336c; }
+    .code.slb { background: rgba(194,65,12,0.12); color: #c2410c; }
+    .code.inm { background: rgba(161,98,7,0.12); color: #a16207; }
+    .code.cfe { background: rgba(21,128,61,0.12); color: #15803d; }
+    .code.res { background: rgba(29,78,216,0.12); color: #1d4ed8; }
+    .concept-tag, .link-card, .pillar, .demo-card { background: var(--surface); }
+    .ai-link { background: rgba(37,99,235,0.05); border-color: rgba(37,99,235,0.25); }
+  }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
     font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
