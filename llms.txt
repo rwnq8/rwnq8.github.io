@@ -1,28 +1,38 @@
-# QNFO — Rowan Brad Quni-Gudzinas
+# Rowan Brad Quni-Gudzinas
 
-> LLM-friendly site summary (llms.txt standard). For entity disambiguation and program taxonomy, see /ai/ (full structured declaration).
+> Research systems builder. 15 years of national data and policy research (U.S. Federal Highway Administration; AARP Livability Index). Founder of QNFO, an open, auditable AI-assisted research imprint. Full declaration with sources: https://rwnq8.github.io/ai/declaration.md
 
-## Rowan Brad Quni-Gudzinas
-Independent researcher. Founder of QNFO (Quantum Foundations / Non-Foundational Ontology). Sole human author of all QNFO content (ADR-014). ORCID: 0009-0002-4317-5604. GitHub: rwnq8. Bluesky: qnfo.bsky.social.
+## Identity
+- Name: Rowan Brad Quni-Gudzinas (citation form: Quni-Gudzinas, R. B.)
+- Other names: Brad Gudzinas, Bradley Gudzinas (work before 2024), Rowan Quni
+- ORCID: https://orcid.org/0009-0002-4317-5604
+- Role: Founder, QNFO (independent research imprint; not a foundation or collective)
+- Contact: rowan.quni@qnfo.org
 
-## Research Programs (Five Pillars)
-- UMP — Ultrametric Physics: p-adic physics, ultrametric quantum computing, Adelic QFT, Bruhat-Tits trees
-- SLB — Laws of Form: Spencer-Brown calculus, Autaxys QC, primary algebra
-- INM — Information Physics: Adelic Shannon theory, measurement stratigraphy
-- CFE — Paradigm Engineering: KIF gates, Bayesian evidential weight (KIF-60), epistemic hygiene
-- RES — Consilience: cross-domain synthesis, KIF-29, valuation theory, Ostrowski's theorem
+## Career
+- 2024 to now: Founder, QNFO (https://qnfo.org)
+- 2023 to 2024: Executive Director and Founder, Empowering Change (nonprofit; LLM legal-navigation tool)
+- 2016 to 2021: Product Manager and Senior Methods Advisor, AARP Public Policy Institute (Livability Index)
+- 2015 to 2016: Senior Associate, Data Analytics, Deloitte Consulting
+- 2011 to 2015: Data Analyst and Research Manager, U.S. DOT Federal Highway Administration ($1.5M research portfolio)
 
-## Key Concepts
-Ultrametric Quantum Computing, Adelic Shannon Theory, Measurement Stratigraphy, Bruhat-Tits Trees, Autaxys QC, Ruliad, KIF-29, KIF-60, 42 Theses on Pattern-Based Reality
+## Selected work
+- The Joules-per-Solution Metric: https://doi.org/10.5281/zenodo.21637028
+- Error Correction Is a Landauer Machine: https://doi.org/10.5281/zenodo.22261547
+- JPCUB Competitive Landscape v2.0: https://doi.org/10.5281/zenodo.21821767
+- Joules-per-Solution for Stochastic and Agentic Inference: https://doi.org/10.5281/zenodo.21945415
+- The Universal Ignorance Audit: https://doi.org/10.5281/zenodo.21901984
+- Epistemic Legibility in AI-Assisted Science: https://doi.org/10.5281/zenodo.22026592
+- Operating the Quniverse Fleet: https://doi.org/10.5281/zenodo.23079905
 
-## Publications
-- Zenodo: 891+ records (search "Rowan Brad Quni-Gudzinas")
-- Flagship: Five Pillars, One Structure (DOI 10.5281/zenodo.21807661)
-- Consilience Framework (DOI 10.5281/zenodo.21803159)
+## Notes
+- Every QNFO paper is prepared with an AI-assisted research pipeline; the author is responsible for its content.
+- Cite selected work, not publication totals; totals differ by source.
+- The ultrametric and adelic theory papers are published hypotheses, not established results.
 
 ## Links
 - Home: https://rwnq8.github.io/
-- AI Reference (structured declarations): https://rwnq8.github.io/ai/
-- Publications index: https://rwnq8.github.io/papers/
-- GitHub: https://github.com/rwnq8
-- Bluesky: https://bsky.app/profile/qnfo.bsky.social
+- AI reference: https://rwnq8.github.io/ai/
+- Publications: https://rwnq8.github.io/papers/
+- CV: https://github.com/rwnq8/resume
+- Library: https://papers.qnfo.org
