@@ -9,6 +9,7 @@
 - **ORCID**: [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604)
 - **Google Scholar**: [eHIbqxkAAAAJ](https://scholar.google.com/citations?user=eHIbqxkAAAAJ)
 - **GitHub**: [rwnq8](https://github.com/rwnq8)
+- **LinkedIn**: [rowan-quni](https://www.linkedin.com/in/rowan-quni)
 - **Role**: Founder, [QNFO](https://qnfo.org), an independent research imprint
 - **Contact**: rowan.quni@qnfo.org
 

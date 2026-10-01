@@ -3,6 +3,7 @@
   GitHub: https://github.com/rwnq8
   ORCID: https://orcid.org/0009-0002-4317-5604
   CV: https://github.com/rwnq8/resume
+  LinkedIn: https://www.linkedin.com/in/rowan-quni
 
   DESIGN FREEZE (2026-08-05): the visual frame is kept (typing SVG header, shield badges,
   social badges, centered layout, <hr> separators, section headers, table formats).
@@ -27,6 +28,7 @@
 <p align="center">
   <a href="https://orcid.org/0009-0002-4317-5604"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID: 0009-0002-4317-5604" /></a>
   <a href="https://qnfo.org"><img src="https://img.shields.io/badge/qnfo.org-24315E?style=for-the-badge" alt="qnfo.org" /></a>
+  <a href="https://www.linkedin.com/in/rowan-quni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=eHIbqxkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://bsky.app/profile/qnfo.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
   <a href="https://github.com/rwnq8/resume"><img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
@@ -117,6 +119,9 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 <div align="center">
   <a href="https://orcid.org/0009-0002-4317-5604" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://www.linkedin.com/in/rowan-quni" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://qnfo.org" target="_blank">
     <img src="https://img.shields.io/badge/qnfo.org-24315E?style=for-the-badge" alt="qnfo.org" />
