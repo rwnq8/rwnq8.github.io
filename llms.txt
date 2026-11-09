@@ -1,6 +1,6 @@
 # Rowan Brad Quni-Gudzinas
 
-> Autonomous AI systems researcher (a systems researcher, not a software engineer). Two decades of network modeling and data-driven decision systems: transportation network and GIS work, the U.S. Federal Highway Administration national Tour-Based Model System, the AARP Livability Index. Founder of QNFO, which operates and studies an autonomous AI research system. Full declaration with sources: https://rwnq8.github.io/ai/declaration.md
+> Autonomous AI systems researcher (a systems researcher, not a software engineer). Two decades of network modeling and data-driven decision systems: transportation network modeling, the U.S. Federal Highway Administration national Tour-Based Model System (specified; contractor team directed), the AARP Livability Index. Founder of QNFO, which operates and studies an autonomous AI research system. Full declaration with sources: https://rwnq8.github.io/ai/declaration.md
 
 ## Identity
 - Name: Rowan Brad Quni-Gudzinas (citation form: Quni-Gudzinas, R. B.)
@@ -15,8 +15,8 @@
 - 2023 to 2024: Executive Director and Founder, Empowering Change (nonprofit; LLM legal-navigation tool)
 - 2016 to 2021: Product Manager and Senior Methods Advisor, AARP Public Policy Institute (Livability Index)
 - 2015 to 2016: Senior Associate, Data Analytics, Deloitte Consulting (analytics and machine learning)
-- 2011 to 2015: Data Analyst and Research Manager, U.S. DOT Federal Highway Administration ($1.5M research portfolio; national Tour-Based Model System)
-- 2004 to 2011: GIS analyst, systems planner and transportation consultant (Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group): transportation network and GIS work, regional systems planning
+- 2011 to 2015: Data Analyst and Research Manager, U.S. DOT Federal Highway Administration (specified the national Tour-Based Model System; co-directed the $10M National Household Travel Survey; $1.5M research portfolio)
+- 2004 to 2011: GIS analyst, systems planner and transportation consultant (Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group): GIS, then transportation network modeling (2005 to 2011)
 
 ## Selected work
 - Operating the Quniverse Fleet: https://doi.org/10.5281/zenodo.23079905

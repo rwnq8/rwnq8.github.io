@@ -16,7 +16,7 @@ Changed on branch `claude/project-thread-parcv4` in:
 - rwnq8/agent-operating-system and rwnq8/AIOS: research-context note in README.md
 
 ## Decisions
-- Every factual claim comes from rwnq8/resume RESUME.md; nothing new invented.
+- Every factual claim comes from rwnq8/resume RESUME.md, plus four claims Rowan confirmed 2026-11-09 and recorded in rwnq8/resume docs/BRAND.md (resume PR #3): DVRPC/IBI network modeling, FHWA specified the Tour-Based Model System and directed the contractor team, co-directed the $10M NHTS, Epsilon predictive ML data products.
 - Quantum papers kept on the publications page and AI page only as one application of the JPCUB metric, removed from home and profile.
 - Skills badges for programming languages removed; replaced with focus areas.
 

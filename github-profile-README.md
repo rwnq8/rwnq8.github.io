@@ -41,7 +41,7 @@
 
 I study autonomous AI systems as systems: how their parts interact, where they fail, and what keeps them legible and accountable to the people who rely on them. I am a systems researcher, not a software engineer. My work is system design, modeling, evaluation and oversight.
 
-- **Networks and systems since my first job in transportation.** GIS analyst, systems planner at the Delaware Valley Regional Planning Commission, and transportation consultant at IBI Group. At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System for long-distance passenger travel and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
+- **Network modeling since my early jobs in transportation.** GIS analyst, then transportation network modeling as a systems planner at the Delaware Valley Regional Planning Commission (2005 to 2008) and a consultant at IBI Group (2008 to 2011). At the U.S. Federal Highway Administration I specified the national Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
 - **Data-driven decisions at national scale.** Analytics and machine-learning engagements for federal and public-sector clients at Deloitte. At AARP's Public Policy Institute I led the Livability Index, which combines 50+ data sources across 7 domains to score U.S. neighborhoods and inform policy.
 - **Autonomous systems research at [QNFO](https://qnfo.org).** I designed and operate an autonomous AI research system that drafts, referees, revises, publishes and corrects papers, and I study it: what it delivers, what it costs, how it fails, and how its claims stay auditable.
 - **Current questions:** oversight of AI systems that act on their own; how such a system states what it does not know; what a correct answer from an agentic system costs in energy.
@@ -84,12 +84,12 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 | **Founder** | [QNFO](https://qnfo.org) (independent research) | 2024 to now |
 | **Executive Director and Founder** | Empowering Change, a nonprofit that built an LLM legal-navigation tool for self-represented litigants | 2023 to 2024 |
 | **Platform Data Product Manager** | iManage | 2022 to 2023 |
-| **Senior Product Manager** | Epsilon (Publicis Groupe) | 2021 to 2022 |
+| **Senior Product Manager** | Epsilon (Publicis Groupe): data products built on predictive machine-learning models | 2021 to 2022 |
 | **Product Manager and Senior Methods Advisor** | AARP Public Policy Institute: [Livability Index](https://livabilityindex.aarp.org) | 2016 to 2021 |
 | **Senior Data Scientist** | The Advisory Board Company | 2016 |
 | **Senior Associate, Data Analytics** | Deloitte Consulting: analytics and machine learning for public-sector clients | 2015 to 2016 |
-| **Data Analyst and Research Manager** | U.S. DOT Federal Highway Administration: national Tour-Based Model System; $1.5M research portfolio | 2011 to 2015 |
-| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group: transportation network and GIS work, regional systems planning | 2004 to 2011 |
+| **Data Analyst and Research Manager** | U.S. DOT Federal Highway Administration: specified the national Tour-Based Model System; co-directed the $10M National Household Travel Survey; $1.5M research portfolio | 2011 to 2015 |
+| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group: GIS, then transportation network modeling | 2004 to 2011 |
 
 **Education:** M.S., City and Regional Studies, Rutgers University (2008) · B.A., Urban Studies and Community Planning, Rutgers University-Camden (2004)
 

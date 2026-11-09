@@ -15,7 +15,7 @@
 
 ## Summary
 
-Rowan Brad Quni-Gudzinas is an autonomous AI systems researcher, and not a software engineer: the work is system design, modeling, evaluation and oversight. It rests on two decades of network modeling and data-driven decision systems: transportation network and GIS work from a first job in transportation (2004 onward), technical lead on components of the U.S. Federal Highway Administration's national Tour-Based Model System and manager of a $1.5M FHWA research portfolio (2011 to 2015), analytics and machine-learning engagements at Deloitte (2015 to 2016), and product manager of the AARP Livability Index (2016 to 2021). Since 2024: founder of QNFO, an independent research imprint that operates an autonomous AI research system and studies it: what it delivers, how it fails, and how its claims stay auditable. Current research questions: oversight and legibility of autonomous AI systems, and the energy cost of a correct answer from agentic AI.
+Rowan Brad Quni-Gudzinas is an autonomous AI systems researcher, and not a software engineer: the work is system design, modeling, evaluation and oversight. It rests on two decades of network modeling and data-driven decision systems: transportation network modeling at the Delaware Valley Regional Planning Commission and IBI Group (2005 to 2011); at the U.S. Federal Highway Administration (2011 to 2015), specifying the national Tour-Based Model System and directing the contractor team that built it, co-directing the $10M National Household Travel Survey, and managing a $1.5M research portfolio; analytics and machine-learning engagements at Deloitte (2015 to 2016); product manager of the AARP Livability Index (2016 to 2021); and data products built on predictive machine-learning models at Epsilon (2021 to 2022). Since 2024: founder of QNFO, an independent research imprint that operates an autonomous AI research system and studies it: what it delivers, how it fails, and how its claims stay auditable. Current research questions: oversight and legibility of autonomous AI systems, and the energy cost of a correct answer from agentic AI.
 
 ## Career record
 
@@ -27,7 +27,7 @@ Rowan Brad Quni-Gudzinas is an autonomous AI systems researcher, and not a softw
 | 2015 to 2016 | Senior Associate, Data Analytics, Deloitte Consulting | TRB 2016 paper on updating the National Household Travel Survey |
 | 2011 to 2015 | Data Analyst and Research Manager, U.S. DOT Federal Highway Administration | [FHWA long-distance modal choice report](https://www.fhwa.dot.gov/policy/modalchoice/modalchoice.pdf) (prepared for Brad Gudzinas as FHWA project lead) |
 
-Also: Platform Data Product Manager, iManage (2022 to 2023); Senior Product Manager, Epsilon, Publicis Groupe (2021 to 2022); Senior Data Scientist, The Advisory Board Company (2016). M.S., City and Regional Studies, Rutgers University (2008).
+Also: Platform Data Product Manager, iManage (2022 to 2023); Senior Product Manager, Epsilon, Publicis Groupe (2021 to 2022; data products built on predictive machine-learning models); Senior Data Scientist, The Advisory Board Company (2016). M.S., City and Regional Studies, Rutgers University (2008).
 
 ## Research lines and selected work
 
