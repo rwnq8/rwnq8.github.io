@@ -4,8 +4,8 @@ status: done, in review (draft PRs)
 date: 2026-11-09
 
 ## State
-Owner directive 2026-11-09: stop quantum-first branding; present Rowan as a systems
-researcher in AI autonomous systems (not a software engineer). Career thread: network
+Owner directive 2026-11-09: stop quantum-first branding; present Rowan as an autonomous
+AI systems researcher (not a software engineer). Career thread: network
 modeling since the first transportation job, FHWA national Tour-Based Model System,
 Deloitte analytics and ML, AARP Livability Index, QNFO autonomous research system.
 
@@ -17,7 +17,7 @@ Changed on branch `claude/project-thread-parcv4` in:
 
 ## Decisions
 - Every factual claim comes from rwnq8/resume RESUME.md; nothing new invented.
-- Quantum papers kept on the publications page and AI page as "earlier lines", removed from home and profile.
+- Quantum papers kept on the publications page and AI page only as one application of the JPCUB metric, removed from home and profile.
 - Skills badges for programming languages removed; replaced with focus areas.
 
 ## Next
@@ -26,5 +26,5 @@ Changed on branch `claude/project-thread-parcv4` in:
   rwnq8/resume still says "Quantum Computing" there.
 
 ## Verify
-- `curl -s https://rwnq8.github.io/ | grep -c "AI autonomous systems"` returns 1 or more after merge.
-- `curl -s https://rwnq8.github.io/llms.txt | grep -c "Systems researcher"` returns 1 or more.
+- `curl -s https://rwnq8.github.io/ | grep -c "Autonomous AI systems researcher"` returns 1 or more after merge.
+- `curl -s https://rwnq8.github.io/llms.txt | grep -c "Autonomous AI systems researcher"` returns 1 or more.

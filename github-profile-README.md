@@ -1,5 +1,5 @@
 <!--
-  Rowan Brad Quni-Gudzinas - systems researcher, AI autonomous systems
+  Rowan Brad Quni-Gudzinas - autonomous AI systems researcher
   GitHub: https://github.com/rwnq8
   ORCID: https://orcid.org/0009-0002-4317-5604
   CV: https://github.com/rwnq8/resume
@@ -7,7 +7,7 @@
 
   DESIGN FREEZE (2026-08-05): the visual frame is kept (typing SVG header, shield badges,
   social badges, centered layout, <hr> separators, section headers, table formats).
-  CONTENT (2026-11-09): systems researcher in AI autonomous systems (owner directive); not a software engineer. Canonical copy lives in the owner's Identity doc;
+  CONTENT (2026-11-09): autonomous AI systems researcher (owner directive); not a software engineer. Canonical copy lives in the owner's Identity doc;
   claims follow docs/STRATEGY.md section 2 in QNFO/qnfo-workers (no patent, publication-count,
   "national media" or "clearance-eligible" claims).
 -->
@@ -16,11 +16,11 @@
 
   <h1><a href="https://github.com/rwnq8"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=550&lines=Rowan+Brad+Quni-Gudzinas" alt="Rowan Brad Quni-Gudzinas" /></a></h1>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Systems+researcher%3A+AI+autonomous+systems;From+transportation+network+models+to+autonomous+AI;How+do+autonomous+AI+systems+fail%3F;Keeping+autonomous+systems+accountable" alt="Systems researcher in AI autonomous systems. From transportation network models to autonomous AI." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Autonomous+AI+systems+researcher;From+transportation+network+models+to+autonomous+AI;How+do+autonomous+AI+systems+fail%3F;Keeping+autonomous+systems+accountable" alt="Autonomous AI systems researcher. From transportation network models to autonomous AI." />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI_Autonomous_Systems-6C3483?style=for-the-badge" alt="Focus: AI autonomous systems research" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous_AI_Systems-6C3483?style=for-the-badge" alt="Focus: autonomous AI systems research" />
   <img src="https://img.shields.io/badge/FHWA-National_Network_Model-1F618D?style=for-the-badge" alt="U.S. Federal Highway Administration: national Tour-Based Model System" />
   <img src="https://img.shields.io/badge/AARP-Livability_Index-D35400?style=for-the-badge" alt="AARP Livability Index: product manager" />
   <img src="https://img.shields.io/badge/QNFO-Founder-24315E?style=for-the-badge" alt="Founder of QNFO" />
@@ -41,7 +41,7 @@
 
 I study autonomous AI systems as systems: how their parts interact, where they fail, and what keeps them legible and accountable to the people who rely on them. I am a systems researcher, not a software engineer. My work is system design, modeling, evaluation and oversight.
 
-- **Network modeling since my first job in transportation.** GIS analyst, systems planner at the Delaware Valley Regional Planning Commission, and transportation consultant at IBI Group. At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System for long-distance passenger travel and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
+- **Networks and systems since my first job in transportation.** GIS analyst, systems planner at the Delaware Valley Regional Planning Commission, and transportation consultant at IBI Group. At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System for long-distance passenger travel and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
 - **Data-driven decisions at national scale.** Analytics and machine-learning engagements for federal and public-sector clients at Deloitte. At AARP's Public Policy Institute I led the Livability Index, which combines 50+ data sources across 7 domains to score U.S. neighborhoods and inform policy.
 - **Autonomous systems research at [QNFO](https://qnfo.org).** I designed and operate an autonomous AI research system that drafts, referees, revises, publishes and corrects papers, and I study it: what it delivers, what it costs, how it fails, and how its claims stay auditable.
 - **Current questions:** oversight of AI systems that act on their own; how such a system states what it does not know; what a correct answer from an agentic system costs in energy.
@@ -89,7 +89,7 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 | **Senior Data Scientist** | The Advisory Board Company | 2016 |
 | **Senior Associate, Data Analytics** | Deloitte Consulting: analytics and machine learning for public-sector clients | 2015 to 2016 |
 | **Data Analyst and Research Manager** | U.S. DOT Federal Highway Administration: national Tour-Based Model System; $1.5M research portfolio | 2011 to 2015 |
-| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group: transportation network and travel-demand modeling | 2004 to 2011 |
+| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group: transportation network and GIS work, regional systems planning | 2004 to 2011 |
 
 **Education:** M.S., City and Regional Studies, Rutgers University (2008) · B.A., Urban Studies and Community Planning, Rutgers University-Camden (2004)
 
@@ -100,7 +100,7 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 ## Focus Areas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI_Autonomous_Systems-6C3483?style=for-the-badge" alt="AI autonomous systems" />
+  <img src="https://img.shields.io/badge/Autonomous_AI_Systems-6C3483?style=for-the-badge" alt="Autonomous AI systems" />
   <img src="https://img.shields.io/badge/AI_Oversight_and_Accountability-8E44AD?style=for-the-badge" alt="AI oversight and accountability" />
   <img src="https://img.shields.io/badge/Systems_Research-2C3E50?style=for-the-badge" alt="Systems research" />
   <img src="https://img.shields.io/badge/Network_Modeling-E67E22?style=for-the-badge" alt="Network modeling" />
