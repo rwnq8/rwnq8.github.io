@@ -1,6 +1,6 @@
 # ORCID update: Rowan Brad Quni-Gudzinas (0009-0002-4317-5604)
 
-Systems-first identity, decided 2026-10-01. ORCID has no write API for individuals, so these edits are applied while signed in at orcid.org (or by Claude in your signed-in browser).
+Autonomous AI systems researcher identity (owner decision 2026-11-09; replaces the 2026-10-01 systems-first text). The same text is in `rwnq8/resume` `docs/PROFILE-PACKAGES.md`. ORCID has no write API for individuals, so these edits are applied while signed in at orcid.org (or by Claude in your signed-in browser).
 
 ## Current state (public API, 2026-10-01)
 
@@ -16,14 +16,13 @@ Systems-first identity, decided 2026-10-01. ORCID has no write API for individua
 Add **Bradley Gudzinas**. Keep Brad Gudzinas and Rowan Quni.
 
 ### 2. Biography
+Wording from `rwnq8/resume` `docs/BRAND.md` (short bio, adopted 2026-11-09):
 ```
-I build the machinery that turns messy evidence into decisions people can trust. At the U.S. Federal Highway Administration I managed a $1.5M federal research portfolio and helped build the national long-distance travel forecasting model. At AARP's Public Policy Institute I led the Livability Index, which scores U.S. neighborhoods from 50+ data sources.
-
-I now run QNFO, an open research imprint where an AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status. My current question is what a correct computation really costs in energy (the JPCUB benchmark).
+Rowan Quni-Gudzinas is a systems researcher focused on autonomous AI systems: how they behave, fail and can be audited and governed. Their career began in transportation network modeling, continued with a national travel forecasting model for the U.S. Federal Highway Administration and a data-driven national decision tool at AARP, and now centres on autonomous AI. As founder of QNFO, Rowan runs an autonomous research system in production and publishes its objectives, costs and failure record openly. Earlier work is published under Brad Gudzinas.
 ```
 
 ### 3. Keywords
-AI-assisted research, research integrity, energy cost of computation, benchmark design, travel forecasting, livability data
+autonomous AI systems, agentic systems, systems research, AI evaluation and auditability, AI governance and oversight, network modeling, travel demand modeling, evidence-based decision systems
 
 ### 4. Websites
 - qnfo.org (https://qnfo.org)
