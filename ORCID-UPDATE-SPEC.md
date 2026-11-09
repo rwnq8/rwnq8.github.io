@@ -1,6 +1,6 @@
 # ORCID update: Rowan Brad Quni-Gudzinas (0009-0002-4317-5604)
 
-Autonomous AI systems researcher identity (owner decision 2026-11-09; replaces the 2026-10-01 systems-first text). The same text is in `rwnq8/resume` `docs/PROFILE-PACKAGES.md`. ORCID has no write API for individuals, so these edits are applied while signed in at orcid.org (or by Claude in your signed-in browser).
+Autonomous AI systems researcher identity (owner decision 2026-11-09; replaces the 2026-10-01 systems-first text). The biography and keywords are owner cards on fleet.qnfo.org with a Copy button (BRAND-PROFILE-SYNC-1 in QNFO/qnfo-workers qnfo-fleet-dashboard); each card closes itself when the public ORCID record shows the new text.
 
 ## Current state (public API, 2026-10-01)
 
