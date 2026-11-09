@@ -1,5 +1,5 @@
 <!--
-  Rowan Brad Quni-Gudzinas - research systems builder
+  Rowan Brad Quni-Gudzinas - autonomous AI systems researcher
   GitHub: https://github.com/rwnq8
   ORCID: https://orcid.org/0009-0002-4317-5604
   CV: https://github.com/rwnq8/resume
@@ -7,7 +7,7 @@
 
   DESIGN FREEZE (2026-08-05): the visual frame is kept (typing SVG header, shield badges,
   social badges, centered layout, <hr> separators, section headers, table formats).
-  CONTENT (2026-10-01): systems-first identity. Canonical copy lives in the owner's Identity doc;
+  CONTENT (2026-11-09): autonomous AI systems researcher (owner directive); not a software engineer. Canonical copy lives in the owner's Identity doc;
   claims follow docs/STRATEGY.md section 2 in QNFO/qnfo-workers (no patent, publication-count,
   "national media" or "clearance-eligible" claims).
 -->
@@ -16,11 +16,12 @@
 
   <h1><a href="https://github.com/rwnq8"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=550&lines=Rowan+Brad+Quni-Gudzinas" alt="Rowan Brad Quni-Gudzinas" /></a></h1>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Research+systems+builder;Open%2C+auditable+AI-assisted+research+at+QNFO;15+years+of+national+data+and+policy+research;What+does+a+correct+computation+really+cost%3F" alt="Research systems builder. Open, auditable AI-assisted research at QNFO. 15 years of national data and policy research." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Autonomous+AI+systems+researcher;From+transportation+network+models+to+autonomous+AI;How+do+autonomous+AI+systems+fail%3F;Keeping+autonomous+systems+accountable" alt="Autonomous AI systems researcher. From transportation network models to autonomous AI." />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FHWA-Research_Portfolio_Manager-1F618D?style=for-the-badge" alt="U.S. Federal Highway Administration: research portfolio manager" />
+  <img src="https://img.shields.io/badge/Focus-Autonomous_AI_Systems-6C3483?style=for-the-badge" alt="Focus: autonomous AI systems research" />
+  <img src="https://img.shields.io/badge/FHWA-National_Network_Model-1F618D?style=for-the-badge" alt="U.S. Federal Highway Administration: national Tour-Based Model System" />
   <img src="https://img.shields.io/badge/AARP-Livability_Index-D35400?style=for-the-badge" alt="AARP Livability Index: product manager" />
   <img src="https://img.shields.io/badge/QNFO-Founder-24315E?style=for-the-badge" alt="Founder of QNFO" />
 </p>
@@ -38,11 +39,12 @@
 
 ## About
 
-I build the machinery that turns messy evidence into decisions people can trust.
+I study autonomous AI systems as systems: how their parts interact, where they fail, and what keeps them legible and accountable to the people who rely on them. I am a systems researcher, not a software engineer. My work is system design, modeling, evaluation and oversight.
 
-- **15 years of national data and policy research.** At the U.S. Federal Highway Administration I managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At AARP's Public Policy Institute I led the Livability Index, which scores U.S. neighborhoods from 50+ data sources across 7 domains.
-- **Founder of [QNFO](https://qnfo.org)**, an independent research imprint. Its AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status.
-- **Current question:** what does a correct computation really cost? I measure it as energy per correct answer (the JPCUB benchmark).
+- **Network modeling since my early jobs in transportation.** GIS analyst, then transportation network modeling as a systems planner at the Delaware Valley Regional Planning Commission (2005 to 2008) and a consultant at IBI Group (2008 to 2011). At the U.S. Federal Highway Administration I specified the national Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative.
+- **Data-driven decisions at national scale.** Analytics and machine-learning engagements for federal and public-sector clients at Deloitte. At AARP's Public Policy Institute I led the Livability Index, which combines 50+ data sources across 7 domains to score U.S. neighborhoods and inform policy.
+- **Autonomous systems research at [QNFO](https://qnfo.org).** I designed and operate an autonomous AI research system that drafts, referees, revises, publishes and corrects papers, and I study it: what it delivers, what it costs, how it fails, and how its claims stay auditable.
+- **Current questions:** oversight of AI systems that act on their own; how such a system states what it does not know; what a correct answer from an agentic system costs in energy.
 
 Earlier work is published under **Brad Gudzinas**.
 
@@ -52,13 +54,11 @@ Earlier work is published under **Brad Gudzinas**.
 
 | Work | What it is |
 |:-----|:-----------|
-| [The Joules-per-Solution Metric](https://doi.org/10.5281/zenodo.21637028) | Definition, measurement protocol and anti-gaming rules for energy per correct answer |
-| [Error Correction Is a Landauer Machine](https://doi.org/10.5281/zenodo.22261547) | The thermodynamic floor of quantum error-correction overhead |
-| [JPCUB Competitive Landscape v2.0](https://doi.org/10.5281/zenodo.21821767) | System-level energy estimates for 17 quantum computing platforms, from published specifications |
-| [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415) | The same metric applied to frontier and agentic LLMs |
+| [Operating the Quniverse Fleet](https://doi.org/10.5281/zenodo.23079905) | Objectives, successes, failures and roadmap of an autonomous cloud research system, with a failure ledger |
+| [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592) | Ignorance auditing as a governance tool for AI-assisted research and peer review |
 | [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) | A fifteen-question method for stating what a piece of research does not know |
-| [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592) | Ignorance auditing as a governance tool for peer review |
-| [Operating the Quniverse Fleet](https://doi.org/10.5281/zenodo.23079905) | Objectives, successes, failures and roadmap of an autonomous cloud research system |
+| [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415) | Energy per correct answer, applied to frontier and agentic AI systems |
+| [The Joules-per-Solution Metric](https://doi.org/10.5281/zenodo.21637028) | Definition, measurement protocol and anti-gaming rules for energy per correct answer |
 
 <div align="center">
   <a href="https://papers.qnfo.org">
@@ -84,12 +84,12 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 | **Founder** | [QNFO](https://qnfo.org) (independent research) | 2024 to now |
 | **Executive Director and Founder** | Empowering Change, a nonprofit that built an LLM legal-navigation tool for self-represented litigants | 2023 to 2024 |
 | **Platform Data Product Manager** | iManage | 2022 to 2023 |
-| **Senior Product Manager** | Epsilon (Publicis Groupe) | 2021 to 2022 |
+| **Senior Product Manager** | Epsilon (Publicis Groupe): data products built on predictive machine-learning models | 2021 to 2022 |
 | **Product Manager and Senior Methods Advisor** | AARP Public Policy Institute: [Livability Index](https://livabilityindex.aarp.org) | 2016 to 2021 |
 | **Senior Data Scientist** | The Advisory Board Company | 2016 |
-| **Senior Associate, Data Analytics** | Deloitte Consulting | 2015 to 2016 |
-| **Data Analyst and Research Manager** | U.S. DOT Federal Highway Administration: $1.5M research portfolio; national Tour-Based Model System | 2011 to 2015 |
-| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group | 2004 to 2011 |
+| **Senior Associate, Data Analytics** | Deloitte Consulting: analytics and machine learning for public-sector clients | 2015 to 2016 |
+| **Data Analyst and Research Manager** | U.S. DOT Federal Highway Administration: specified the national Tour-Based Model System; co-directed the $10M National Household Travel Survey; $1.5M research portfolio | 2011 to 2015 |
+| **GIS analyst, systems planner, consultant** | Cross County Connection TMA, Delaware Valley Regional Planning Commission, IBI Group: GIS, then transportation network modeling | 2004 to 2011 |
 
 **Education:** M.S., City and Regional Studies, Rutgers University (2008) · B.A., Urban Studies and Community Planning, Rutgers University-Camden (2004)
 
@@ -97,19 +97,17 @@ Every QNFO paper is prepared with an AI-assisted research pipeline, and I am res
 
 ---
 
-## Skills
+## Focus Areas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Research_Program_Management-2C3E50?style=for-the-badge" alt="Research program management" />
-  <img src="https://img.shields.io/badge/Federal_Contract_Oversight_(COR)-1ABC9C?style=for-the-badge" alt="Federal contract oversight" />
-  <img src="https://img.shields.io/badge/Product_Management-34495E?style=for-the-badge" alt="Product management" />
-  <img src="https://img.shields.io/badge/Travel--Demand_Modeling-E67E22?style=for-the-badge" alt="Travel-demand modeling" />
+  <img src="https://img.shields.io/badge/Autonomous_AI_Systems-6C3483?style=for-the-badge" alt="Autonomous AI systems" />
+  <img src="https://img.shields.io/badge/AI_Oversight_and_Accountability-8E44AD?style=for-the-badge" alt="AI oversight and accountability" />
+  <img src="https://img.shields.io/badge/Systems_Research-2C3E50?style=for-the-badge" alt="Systems research" />
+  <img src="https://img.shields.io/badge/Network_Modeling-E67E22?style=for-the-badge" alt="Network modeling" />
+  <img src="https://img.shields.io/badge/Data--Driven_Decision--Making-1ABC9C?style=for-the-badge" alt="Data-driven decision-making" />
+  <img src="https://img.shields.io/badge/Research_Program_Management-34495E?style=for-the-badge" alt="Research program management" />
+  <img src="https://img.shields.io/badge/Federal_Contract_Oversight_(COR)-1F618D?style=for-the-badge" alt="Federal contract oversight" />
   <img src="https://img.shields.io/badge/GIS-3E7C17?style=for-the-badge" alt="GIS" />
-  <img src="https://img.shields.io/badge/LLM_Agent_Systems-FF6F00?style=for-the-badge" alt="LLM agent systems" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ---
