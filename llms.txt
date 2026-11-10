@@ -12,7 +12,7 @@
 
 ## Career
 - 2024 to now: Founder, QNFO (https://qnfo.org)
-- QNFO's fleet is also a self-governing development platform (working name Ultrastable): it chooses its own work, proves each change live with rollback and scores its decisions against logged predictions; QNFO is its first customer. One installation so far. Product page: https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md
+- QNFO's fleet is also a self-governing development platform (working name Ultrastable): it chooses its own work, proves each change live with rollback and scores its decisions against logged predictions; QNFO is its first customer. One installation so far. Rowan directs it. Live claims page: https://qnfo.org/platform (design and gaps: https://github.com/QNFO/qnfo-workers/blob/main/docs/PRODUCT-ULTRASTABLE.md)
 - 2023 to 2024: Executive Director and Founder, Empowering Change (nonprofit; LLM legal-navigation tool)
 - 2016 to 2021: Product Manager and Senior Methods Advisor, AARP Public Policy Institute (Livability Index)
 - 2015 to 2016: Senior Associate, Data Analytics, Deloitte Consulting (analytics and machine learning)
