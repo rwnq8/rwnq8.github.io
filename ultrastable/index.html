@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Case study: Ultrastable · Rowan Brad Quni-Gudzinas</title>
+<meta name="description" content="Case study: how Rowan Brad Quni-Gudzinas, a systems researcher, founded and directs Ultrastable, an autonomous development platform that chooses its own work, proves each change live and scores its own predictions.">
+<link rel="canonical" href="https://rwnq8.github.io/ultrastable/">
+<meta property="og:title" content="Case study: Ultrastable, an autonomous development platform">
+<meta property="og:description" content="Systems design and direction, not coding: how a self-governing development platform runs QNFO, with every claim re-checked live.">
+<meta property="og:url" content="https://rwnq8.github.io/ultrastable/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Case study: Ultrastable, an autonomous development platform","url":"https://rwnq8.github.io/ultrastable/","author":{"@id":"https://rwnq8.github.io/#person","@type":"Person","name":"Rowan Brad Quni-Gudzinas","url":"https://rwnq8.github.io/"},"about":{"@type":"SoftwareApplication","name":"Ultrastable","url":"https://ultrastable.io","applicationCategory":"DeveloperApplication","creator":{"@id":"https://rwnq8.github.io/#person"}},"dateModified":"2026-11-10"}
+</script>
+<style>
+  :root {
+    --bg: #faf8f3;
+    --surface: #ffffff;
+    --border: #e3dfd4;
+    --text: #1b1f2a;
+    --muted: #5a6275;
+    --accent: #24315e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1218;
+      --surface: #171b24;
+      --border: #272d3a;
+      --text: #e6e8ef;
+      --muted: #9aa2b5;
+      --accent: #9fb0e8;
+    }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    background: var(--bg); color: var(--text);
+    line-height: 1.6; max-width: 860px; margin: 0 auto; padding: 2.5rem 1.25rem 3rem;
+  }
+  h1, h2 { font-family: "Fraunces", Georgia, serif; font-weight: 600; color: var(--text); }
+  h1 { font-size: 2.2rem; line-height: 1.15; letter-spacing: -0.01em; }
+  h2 { font-size: 1.3rem; margin: 2.5rem 0 0.9rem; }
+  a { color: var(--accent); }
+  header { padding-bottom: 1.75rem; border-bottom: 1px solid var(--border); }
+  header .role { font-size: 1.15rem; color: var(--muted); margin-top: 0.35rem; }
+  header .aka { font-size: 0.9rem; color: var(--muted); margin-top: 0.35rem; }
+  .links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.1rem; }
+  .links a {
+    font-size: 0.88rem; text-decoration: none; padding: 0.3rem 0.7rem;
+    border: 1px solid var(--border); border-radius: 4px; background: var(--surface);
+  }
+  .links a:hover { border-color: var(--accent); }
+  .lead { font-size: 1.12rem; margin-top: 1.75rem; }
+  ul.points { list-style: none; margin-top: 1rem; display: grid; gap: 0.75rem; }
+  ul.points li { padding-left: 1rem; border-left: 3px solid var(--accent); }
+  .works { display: grid; gap: 0.6rem; }
+  .work { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.8rem 1rem; }
+  .work a { font-weight: 600; text-decoration: none; }
+  .work a:hover { text-decoration: underline; }
+  .work p { font-size: 0.9rem; color: var(--muted); }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.45rem 0.6rem 0.45rem 0; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  td.years { white-space: nowrap; color: var(--muted); }
+  .note { font-size: 0.9rem; color: var(--muted); margin-top: 0.8rem; }
+  .demos { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.6rem; }
+  .demo { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.8rem 1rem; font-size: 0.9rem; }
+  .demo strong { display: block; }
+  .demo span { color: var(--muted); }
+  footer { margin-top: 3rem; padding-top: 1.25rem; border-top: 1px solid var(--border); font-size: 0.85rem; color: var(--muted); }
+  footer a { color: var(--muted); }
+  @media (max-width: 600px) {
+    h1 { font-size: 1.7rem; }
+    th:nth-child(1), td.years { white-space: normal; }
+  }
+  .claims { display: grid; gap: 0.55rem; margin-top: 0.9rem; }
+  .claim { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.75rem 1rem; }
+  .claim p { font-size: 0.92rem; color: var(--muted); margin-top: 0.2rem; }
+  .status { font-size: 0.95rem; margin-top: 0.6rem; color: var(--muted); }
+  ol.steps { margin: 0.8rem 0 0 1.2rem; display: grid; gap: 0.45rem; }
+</style>
+</head>
+<body>
+<header>
+  <p class="aka"><a href="/">Rowan Brad Quni-Gudzinas</a> · Case study</p>
+  <h1>Ultrastable: an autonomous development platform</h1>
+  <p class="role">Founder and director. My part is systems design and direction; coding agents write the code.</p>
+  <nav class="links" aria-label="Links">
+    <a href="https://ultrastable.io">ultrastable.io</a>
+    <a href="https://github.com/rwnq8/resume">CV</a>
+    <a href="https://doi.org/10.5281/zenodo.23079905">Operating report</a>
+  </nav>
+</header>
+<main>
+<p class="lead">Coding assistants write the code you ask for. Ultrastable decides what to build next, ships it, proves it live, and keeps score of how often it was right.</p>
+
+<h2>The problem</h2>
+<p>I run QNFO, an independent research operation, largely through AI agents. Agents can write code quickly, but nobody was deciding what they should work on, checking that a change worked once it was live, or noticing when the system's own judgment was drifting. That is a systems problem, not a coding problem: the gap is in goals, feedback and accountability.</p>
+
+<h2>What the platform does, under my direction</h2>
+<ol class="steps">
+  <li><strong>Its own backlog.</strong> The platform reads its metrics, failures and probes and files its own work as issues, each with a closing probe.</li>
+  <li><strong>Several coding agents, one set of rules.</strong> It hands each change to coding agents from different vendors under one written agreement and one claim ledger, so two agents do not edit the same thing.</li>
+  <li><strong>Proof, not promises.</strong> Every deploy is checked against live probes, and a change that breaks one is rolled back automatically.</li>
+  <li><strong>Scored judgment.</strong> Before it acts, it logs what it expects to happen; afterwards it checks the outcome and keeps a trust score per kind of action.</li>
+  <li><strong>Nothing silently lost.</strong> Every issue is open, closed with evidence, or a recorded delete.</li>
+</ol>
+<p style="margin-top:0.8rem">I set its goals, standing directives and limits (what it may decide alone and what stays with a person) and I evaluate how it behaves. That is the same work I did as a network modeler and at the U.S. Federal Highway Administration, where I specified a national travel model and directed the contractor team that built it.</p>
+
+<h2>Checked live, right now</h2>
+<p class="status" id="st">These claims are re-checked by the running system against its own database. Loading the current results from ultrastable.io…</p>
+<div class="claims" id="claims">
+  <div class="claim"><strong>It finds its own work.</strong><p>549 issues with a code task filed in the last 7 days (2026-11-10).</p></div>
+  <div class="claim"><strong>It scores its decisions.</strong><p>774 of 1,059 scored decisions matched the prediction logged first (2026-11-10).</p></div>
+  <div class="claim"><strong>It loses nothing.</strong><p>6,041 issues closed with a disposition, 0 silent drops (2026-11-10).</p></div>
+  <div class="claim"><strong>It watches its own failures.</strong><p>634 failure modes recorded, 611 active detectors (2026-11-10).</p></div>
+</div>
+<p class="note">Also: 3,880 merged changes between August and November 2026, 624 of them opened by the platform's own code loop.</p>
+
+<h2>What it does not do yet</h2>
+<ul class="points">
+  <li>It has one installation: QNFO. A second, independent installation is the next milestone.</li>
+  <li>Hundreds of issues are open against a target of zero.</li>
+  <li>Its decision scoring is graded by the system itself; outside evaluation is still to come.</li>
+</ul>
+
+<h2>Why this matters beyond QNFO</h2>
+<p>Teams adopting coding agents face the same questions: who decides what the agents do, how do you know a change worked, and how do you audit an AI system that acts on its own? Ultrastable is my working answer, and the evidence above is how I would want any autonomous system held to account. I am open to roles in AI governance and oversight, AI evaluation, autonomous systems strategy and research leadership, and to conversations with teams that want to run their own work this way.</p>
+<p class="note">Contact: <a href="mailto:rowan.quni@qnfo.org">rowan.quni@qnfo.org</a> · <a href="https://www.linkedin.com/in/rowan-quni">LinkedIn</a></p>
+</main>
+<footer>
+  <p><a href="/">Rowan Brad Quni-Gudzinas</a> · ORCID <a href="https://orcid.org/0009-0002-4317-5604">0009-0002-4317-5604</a> · <a href="https://ultrastable.io">ultrastable.io</a></p>
+</footer>
+<script>
+(function(){
+  var st=document.getElementById('st'), box=document.getElementById('claims');
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]});}
+  fetch('https://ultrastable.io/api/platform-claims',{mode:'cors'}).then(function(r){if(!r.ok)throw 0;return r.json();}).then(function(j){
+    if(!j||!j.claims||!j.claims.length)throw 0;
+    box.innerHTML=j.claims.map(function(c){return '<div class="claim"><strong>'+(c.pass?'Passing: ':'Failing: ')+esc(c.claim)+'</strong><p>'+esc(c.detail||'')+'</p></div>';}).join('');
+    st.textContent=j.passing+' of '+j.total+' claims pass their live check (checked '+String(j.checked_at).slice(0,16).replace('T',' ')+' UTC).';
+  }).catch(function(){st.textContent='The live results could not be loaded here, so these are the figures from 2026-11-10. The current results are on ultrastable.io.';});
+})();
+</script>
+</body>
+</html>
