@@ -1,0 +1,17 @@
+name: site-engagement
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/site_engagement.py
+      - run: |
+          git diff --quiet && exit 0
+          git config user.name "site-engagement"; git config user.email "actions@users.noreply.github.com"
+          git commit -am "SITE-ENGAGEMENT-LOOP-1: most-read block from reader counts"; git push
